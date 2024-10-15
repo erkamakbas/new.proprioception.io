@@ -1,0 +1,7 @@
+---
+title: "step-4"
+date: 2024-10-15
+---
+Lookaheads in regular expressions (as well as lookbehinds) are a type of zero-width assertion. They allow you to check for the presence (or absence) of a pattern ahead or behind in a string without actually consuming or "eating up" any characters. This can be confusing at first, but it’s an essential concept in regex.
+
+Let me explain the terminology of "zero-width" and "consuming characters" in more detail.
